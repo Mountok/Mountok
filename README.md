@@ -1,24 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![image](https://github.com/Mountok/Mountok/assets/133938644/be0ddb65-abea-4e18-a6bc-1f15f4eb42cb)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=600&size=35&duration=10000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=1200&lines=My+name+is+Mount+and+I'm+a+Backend+developer.)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mountok&layout=compact&show_icons=true&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountok&show_icons=true&theme=radical&locale=en)
+
+
 
 ###
 
-<h2 align="center">My name is Mountok and I'm a Backend developer, from Russian</h2>
+<h2 align="center">My skills</h2>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">My skills</h2>
-
-###
-
-<div align="left">
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />

@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mountok&show_icons=true&theme=radical&locale=en)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mountok&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
@@ -37,5 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+![](https://komarev.com/ghpvc/?username=Moutok)
 
 ###

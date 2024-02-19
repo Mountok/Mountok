@@ -1,4 +1,4 @@
-![image](https://github.com/Mountok/Mountok/assets/133938644/be0ddb65-abea-4e18-a6bc-1f15f4eb42cb)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=600&size=35&duration=10000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=1200&lines=My+name+is+Mount+and+I'm+a+Backend+developer.)](https://git.io/typing-svg)
 

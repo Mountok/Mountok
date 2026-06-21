@@ -111,7 +111,7 @@ Stack: Go • PostgreSQL • React
 
 📫 Contact
 
-* Portfolio: https://dshv.dev
+* Portfolio: https://dashuev-dev.vercel.app
 * GitHub: https://github.com/mountok
 * Instagram: https://instagram.com/dshv.dev
 

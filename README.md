@@ -1,4 +1,7 @@
 <div align="center">
+<a href="https://www.codewars.com/users/Mountok">
+<img src="https://www.codewars.com/users/Mountok/badges/large">
+</a>
 
 👋 Hi, I’m Islam Dashuev
 
